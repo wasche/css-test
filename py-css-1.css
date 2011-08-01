@@ -5,3 +5,4 @@ div { font: normal 1em Arial, Verdana, sans-serif }
 div { font: normal 1em Arial, Verdana, SERIF }
 b { font: Normal 0.5em Arial; }
 em { font: normal 12px Serif; }
+pre {font-family:Courier; }
