@@ -9,3 +9,4 @@
 }
 .a #foo.b { width: auto; }
 .a .b.c { zoom:1}
+#a #b fieldset .wrap span.cc {margin-right:15px;}
