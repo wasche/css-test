@@ -1,0 +1,11 @@
+.classname #id {
+  margin: 0;
+}
+.classname span {
+  padding: 0;
+}
+.classname .foo {
+  border: none;
+}
+.a #foo.b { width: auto; }
+.a .b.c { zoom:1}
