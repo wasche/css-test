@@ -10,4 +10,4 @@ That's all!
 
 Adding to your project
 ---
-github submodule add git://github.com/kurakin/css-test tests
+    git submodule add git://github.com/kurakin/css-test tests
