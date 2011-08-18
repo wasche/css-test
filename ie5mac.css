@@ -3,3 +3,11 @@
    color: khaki;
 }
 /* Stop ignoring in IE mac */
+
+/* .floatContainer class */
+.floatContainer:after { content:"."; display:block; height:0; font-size:0; clear:both; visibility:hidden;}
+.floatContainer { display:inline-block;}
+/* Hides from IE Mac \*/
+* html .floatContainer { } /* height:1%; */
+* .floatContainer { display:block;}
+/* End Hack */

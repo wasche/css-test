@@ -1,1 +1,1 @@
-/*\*/.selector{color:khaki}/**/
+/*\*/.selector{color:khaki}/**/.floatContainer:after{content:".";display:block;height:0;font-size:0;clear:both;visibility:hidden}.floatContainer{display:inline-block}* .floatContainer{display:block}
