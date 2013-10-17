@@ -1,0 +1,4 @@
+code {
+    -ms-filter: "PROGID:DXImageTransform.Microsoft.Alpha(Opacity=80)"; /* IE 8 */
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);       /* IE 4-7 */
+}
