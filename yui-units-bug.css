@@ -9,3 +9,8 @@ div {
 img {
     -webkit-transform:scale(0.1285)
 }
+
+img {
+    -webkit-transform:translateY(0px)
+}
+
