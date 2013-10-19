@@ -2,3 +2,8 @@ p :link {
   ba:zinga;;;
   foo: bar;;;
 }
+
+p:nth-child(1) .cls {
+    foo: bar
+}
+
