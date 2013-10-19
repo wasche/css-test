@@ -14,3 +14,5 @@ p:first-line{
 p:first-line,a,p:first-letter,b{
   color: red;
 }
+
+#ID .cls:first-letter { a: b }

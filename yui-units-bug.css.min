@@ -1,0 +1,1 @@
+div{background:-webkit-gradient(linear,0% 0,0% 100%,from(#91B156),to(#C6D7A7));}div{background-color:rgba(255,255,255,0.8);}img{-webkit-transform:scale(0.1285);}img{-webkit-transform:translateY(0px);}img{filter:progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand',M11=0.707);}
