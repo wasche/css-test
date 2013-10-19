@@ -14,3 +14,7 @@ img {
     -webkit-transform:translateY(0px)
 }
 
+img {
+    filter:progid:DXImageTransform.Microsoft.Matrix(sizingMethod='auto expand', M11=0.707);
+}
+
