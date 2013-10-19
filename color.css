@@ -4,4 +4,5 @@
   filter: chroma(color="#FFFFFF");
   background: none repeat scroll 0 0 rgb(255, 0,0);
   alpha: rgba(1, 2, 3, 0.4);
+  background-image: linear-gradient(top, rgb(255,220,130) 18%, rgb(255,190,20) 80%);
 }
