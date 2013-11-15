@@ -1,3 +1,7 @@
 div {
     -height:expression((this.childNodes.length>0) ? "50px":"0px");
 }
+
+.a .b:not(:last-child).c { d: e }
+
+.a .b:not(:last-child) .c { d: e }
